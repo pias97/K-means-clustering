@@ -1,0 +1,5 @@
+Full Algorithm: 17.5
+Static Plotting: 5
+Bonus: dynamic plotting just like simulation (7.5)
+
+Total: 22.5 + 7.5 = 30
